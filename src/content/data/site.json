@@ -1,16 +1,17 @@
 {
-  "title": "Metalsmith Netlify CMS Starter",
-  "description": "Metalsmith Starter with Netlify CMS integration",
-  "author": "werner@glinka.co",
   "siteURL": "https://metalsmith-netlify-cms-starter.netlify.app/",
-  "siteOwner": "Werner Glinka",
-  "validate": {
-    "google": "",
-    "ms": ""
-  },
+  "siteUrl": "expertisy.netlify.app",
+  "author": "info@easyexpertisy.com",
+  "siteOwner": "EasyExpertisy",
   "social": {
     "linkedIn": "",
     "github": ""
   },
-  "socialImage": "assets/images/metalsmith-starter-social.png"
+  "socialImage": "assets/images/metalsmith-starter-social.png",
+  "validate": {
+    "google": "",
+    "ms": ""
+  },
+  "title": "Expert to Online You and Your Business",
+  "description": "Expert to Online You! "
 }

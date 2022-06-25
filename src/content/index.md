@@ -4,7 +4,7 @@ bodyClass: Home
 seo:
   title: Easy Expertisy | easier, faster, online fast with expertisy
   description: a PrototypeHype.com project | Getting your business online, fast
-  socialImage: /assets/images/metalsmith-starter-social.png
+  socialImage: assets/images/rt-trans.png
   canonicalOverwrite: ""
 ---
 # Metalsmith Netlify CMS Starter

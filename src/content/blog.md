@@ -5,7 +5,7 @@ seo:
   title: Domain Registration
   description: Picking a domain name
   socialImage: /assets/images/metalsmith-starter-social.png
-  canonicalOverwrite: ionos
+  canonicalOverwrite: online
 ---
 <div class="blog-author">
   <h2>IONOS for Domain Registration</h2>

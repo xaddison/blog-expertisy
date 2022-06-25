@@ -1,18 +1,18 @@
 ---
 layout: blog-post.njk
 author: ""
-excerpt: "EasyExpertisy recommend Digital Ocean for App Management "
+excerpt: EasyExpertisy recommend Crowdfire for for Affiliate Partnerships and Tracking
 date: 2021-07-10T12:00:00.000Z
-bodyClass: Digital Ocean
+bodyClass: Crowdfire
 seo:
-  title: Digital Ocean for DNS and App Management
-  description: "EasyExpertisy recommend Digital Ocean for App Management "
+  title: Crowdfire for for Affiliate Partnerships and Tracking
+  description: EasyExpertisy recommend Crowdfire for for Affiliate Partnerships and Tracking
   socialImage: ""
-  canonicalOverwrite: apps
-blogTitle: Digital Ocean
+  canonicalOverwrite: affiliates
+blogTitle: Crowdfire
 image: ""
 featuredBlogpost: false
-featuredBlogpostOrder: 2
+featuredBlogpostOrder: 3
 ---
 <figure class="wp-block-image size-full is-resized"><a href="https://crowdfire.grsm.io/sourceRT" target="_blank" rel=" noreferrer noopener"><img src="https://www.easyexpertisy.com/wp-content/uploads/2022/05/crowdfire.svg" alt="" class="wp-image-840" width="240" height="52"/></a></figure>
 

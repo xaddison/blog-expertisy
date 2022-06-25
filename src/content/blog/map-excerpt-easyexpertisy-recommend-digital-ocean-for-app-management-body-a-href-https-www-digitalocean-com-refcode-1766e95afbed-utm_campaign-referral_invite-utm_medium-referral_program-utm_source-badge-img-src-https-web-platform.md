@@ -8,7 +8,7 @@ seo:
   title: Digital Ocean for DNS and App Management
   description: "EasyExpertisy recommend Digital Ocean for App Management "
   socialImage: ""
-  canonicalOverwrite: apps
+  canonicalOverwrite: /apps
 blogTitle: Digital Ocean
 image: ""
 featuredBlogpost: false

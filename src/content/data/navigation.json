@@ -6,8 +6,8 @@
       "bodyClass": "home"
     },
     {
-      "label": "Other Page",
-      "url": "/other-page",
+      "label": "Online Prescense",
+      "url": "/online",
       "bodyClass": "otherPage"
     },
     {

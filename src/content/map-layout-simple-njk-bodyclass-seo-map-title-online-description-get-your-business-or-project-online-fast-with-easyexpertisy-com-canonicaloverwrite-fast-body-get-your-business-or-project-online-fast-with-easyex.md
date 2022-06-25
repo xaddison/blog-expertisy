@@ -1,6 +1,6 @@
 ---
 layout: simple.njk
-bodyClass: ""
+bodyClass: Online Fast
 seo:
   title: Online
   description: Get your business or project online fast with EasyExpertisy.com

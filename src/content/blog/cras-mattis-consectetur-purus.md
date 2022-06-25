@@ -1,26 +1,23 @@
 ---
 layout: blog-post.njk
+author: ""
+excerpt: EasyExpertisy recommend IONOS Web Hosting (previously 1and1.com) IONOS
+  Domain Registration includes Private Registration which is an add-on at most
+  other providers.
+date: 2021-07-10T12:00:00.000Z
 bodyClass: blog-post
 seo:
-  title: Cras mattis consectetur purus
-  description: Etiam porta sem malesuada magna mollis euismod.
+  title: IONOS for Domain Registration
+  description: EasyExpertisy recommend IONOS Web Hosting (previously 1and1.com)
+    IONOS Domain Registration includes Private Registration which is an add-on
+    at most other providers.
   socialImage: assets/images/metalsmith-starter-social.png
   canonicalOverwrite: ""
-blogTitle: Cras mattis consectetur purus
-date: 2021-07-10T12:00:00Z
-author: ""
+blogTitle: IONOS Domain Registration i
 image: /assets/images/blog2.jpg
-featuredBlogpost: true
+featuredBlogpost: false
 featuredBlogpostOrder: 1
-excerpt: Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id
-  elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.
-  Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
 ---
-
-Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Curabitur blandit tempus porttitor. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-> Curabitur blandit tempus porttitor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Curabitur blandit tempus porttitor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Cras mattis consectetur purus sit amet fermentum.
-
-Donec sed odio dui. Vestibulum id ligula porta felis euismod semper. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+<a href="https://partnernetwork.ionos.com/partner/xander.addison?origin=PartnerBadge" rel="nofollow">
+<img src="https://images-2.partnerportal.ionos.com/items/ac543e6a-e7a4-4b62-b295-28ffc0e3c109/profiles/c5afba63-d795-4d56-a360-8f6ea684ad0d/badges/normal_blue" alt="IONOS - Official Partner">
+</a>

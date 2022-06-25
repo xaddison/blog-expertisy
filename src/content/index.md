@@ -3,7 +3,7 @@ layout: simple.njk
 bodyClass: home
 seo:
   title: Easy Expertisy
-  description: a PrototypeHype.com project
+  description: a PrototypeHype.com project | Getting your business online, fast
   socialImage: /assets/images/metalsmith-starter-social.png
   canonicalOverwrite: ""
 ---

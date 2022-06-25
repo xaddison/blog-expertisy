@@ -1,9 +1,9 @@
 ---
 layout: simple.njk
-bodyClass: home
+bodyClass: Home
 seo:
-  title: Metalsmith Netlify Starter
-  description: Metalsmith starter with Netlify CMS integration
+  title: Easy Expertisy | easier, faster, online fast with expertisy
+  description: a PrototypeHype.com project | Getting your business online, fast
   socialImage: /assets/images/metalsmith-starter-social.png
   canonicalOverwrite: ""
 ---

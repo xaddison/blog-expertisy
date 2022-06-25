@@ -5,16 +5,16 @@ excerpt: EasyExpertisy recommend IONOS Web Hosting (previously 1and1.com) IONOS
   Domain Registration includes Private Registration which is an add-on at most
   other providers.
 date: 2021-07-10T12:00:00.000Z
-bodyClass: blog-post
+bodyClass: Domain Registration
 seo:
   title: IONOS for Domain Registration
   description: EasyExpertisy recommend IONOS Web Hosting (previously 1and1.com)
     IONOS Domain Registration includes Private Registration which is an add-on
     at most other providers.
   socialImage: assets/images/metalsmith-starter-social.png
-  canonicalOverwrite: ""
-blogTitle: IONOS Domain Registration i
-image: /assets/images/blog2.jpg
+  canonicalOverwrite: services
+blogTitle: IONOS Domain Registration
+image: ""
 featuredBlogpost: false
 featuredBlogpostOrder: 1
 ---

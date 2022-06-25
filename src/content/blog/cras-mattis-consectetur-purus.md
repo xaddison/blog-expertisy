@@ -12,7 +12,7 @@ seo:
     IONOS Domain Registration includes Private Registration which is an add-on
     at most other providers.
   socialImage: assets/images/metalsmith-starter-social.png
-  canonicalOverwrite: ""
+  canonicalOverwrite: services
 blogTitle: IONOS Domain Registration
 image: ""
 featuredBlogpost: false

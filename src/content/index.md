@@ -7,7 +7,7 @@ seo:
   socialImage: assets/images/rt-trans.png
   canonicalOverwrite: ""
 ---
-# Metalsmith Netlify CMS Starter
+# **Easy Expertisy** 
 
 ![](assets/images/prototypehype-logo-t.png "Supported in part by SourceRT and PrototypeHype.com")
 

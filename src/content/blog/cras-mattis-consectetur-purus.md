@@ -12,7 +12,7 @@ seo:
     IONOS Domain Registration includes Private Registration which is an add-on
     at most other providers.
   socialImage: ""
-  canonicalOverwrite: online
+  canonicalOverwrite: /online
 blogTitle: IONOS Domain Registration
 image: ""
 featuredBlogpost: false

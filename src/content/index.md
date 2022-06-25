@@ -7,9 +7,9 @@ seo:
   socialImage: assets/images/rt-trans.png
   canonicalOverwrite: ""
 ---
-# **Easy Expertisy** 
+# **Easy Expertisy**
 
-![](assets/images/prototypehype-logo-t.png "Supported in part by SourceRT and PrototypeHype.com")
+![](assets/images/prototypehype-logo-t.png "Easy Expertisy | Tools we trust and recommend we promote for the good of all humanity")
 
 Like this site?  You can click the button to deploy a copy to Netlify and start for FREE!  
 

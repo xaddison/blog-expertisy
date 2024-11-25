@@ -11,6 +11,6 @@ seo:
 
 ![](assets/images/prototypehype-logo-t.png "Easy Expertisy | Tools we trust and recommend we promote for the good of all humanity")
 
-Like this site?  You can click the button to deploy a copy to Netlify and start for FREE!  
+Like this site?  You can click the test a change deploy button to deploy a copy to Netlify and start for FREE!  
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg#netlify-button)](https://app.netlify.com/start/deploy?repository=https://github.com/wernerglinka/metalsmith-netlify-starter)
